@@ -63,30 +63,30 @@ cmd(
 | *MAIN COMMANDS* |
     ▫️.alive
     ▫️.menu
-    ▫️.ai <text>
-    ▫️.system
-    ▫️.owner
+    ▫️
+    ▫️
+    ▫️
 | *DOWNLOAD COMMANDS* |
-    ▫️.song <text>
-    ▫️.video <text>
-    ▫️.fb <link>
+    ▫️
+    ▫️
+    ▫️
 | *GROUP COMMANDS* |
-${menu.group}
+
 | *OWNER COMMANDS* |
     ▫️.restart
     ▫️.update
 | *CONVERT COMMANDS* |
-    ▫️.sticker <reply img>
-    ▫️.img <reply sticker>
-    ▫️.tr <lang><text>
-    ▫️.tts <text>
+    ▫️
+    ▫️
+    ▫️
+    ▫️
 | *SEARCH COMMANDS* |
-${menu.search}
 
 
-🥶𝐌𝐚𝐝𝐞 𝐛𝐲 𝐒_𝐈_𝐇_𝐈_𝐋_𝐄_𝐋🥶
 
-> ROBIN MENU MSG
+🥶𝐌𝐚𝐝𝐞 𝐛𝐲 𝐅𝐈𝐗𝐎 𝐗𝐌𝐃🥶
+
+> FIXO XMD MENU MSG
 `;
       await robin.sendMessage(
         from,
